@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DagonChernovski
 - 👀 I’m interested mainly in computer programming.
-- 🌱 I’m currently learning Java, C++, C#.
+- 🌱 I’m currently learning Java, C++ (mildly), C#.
 - 💞️ I’m looking to collaborate on some projects i don't know yet.
 - 📫 How to reach me: TBA
 
@@ -19,3 +19,5 @@ My current progress:
 * Currently working on: Thread & Runnable
 # C++
 TBA
+# C#
+* Visual Forms
