@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DagonChernovski
 - 👀 I’m interested mainly in computer programming.
-- 🌱 I’m currently learning Java, C++ (mildly), C#.
+- 🌱 Languages learning in process: Java, C#, Python, C++
 - 💞️ I’m looking to collaborate on some projects i don't know yet.
-- 📫 How to reach me: TBA
+- 📫 How to reach me: Discord - Dagon#7985. I prefer not to share much information about myself irl :)
 
 <!---
 DagonChernovski/DagonChernovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
