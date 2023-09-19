@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @DagonChernovski
-- 👀 I’m interested mainly in computer programming.
-- 🌱 Languages learning in process: LISP, SQL, Java, Python,  <s>C++, C# </s>
+- 👋 Hi, I’m @DagonChernovski. I am a student who attends IT education and is a computer programming enthusiast.
+- 👀 I became interested in program writing in 2015, when I was a child. Now I am an adult, a pretty amateur code writer if we evaluate it by standards.
+- 🌱 In current moment, I am learning LISP, SQL, Java, Python, postponed: <s>C++, C# </s>.
 - 💞️ I’m looking to collaborate on some projects i don't know yet.
 - 📫 How to reach me: Discord - dagon_was_taken. 
--  I prefer not to share much information about my irl self :)
+- I prefer not to share much information about my irl self :)
 
 <!---
 DagonChernovski/DagonChernovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
