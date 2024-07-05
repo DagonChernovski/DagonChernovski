@@ -1,3 +1,5 @@
+(not updated for a long time)
+
 - 👋 Hi, I’m @DagonChernovski. I am a student who attends IT education and is a computer programming enthusiast.
 - 👀 I became interested in program writing in 2015, when I was a child. Now I am an adult, a pretty amateur code writer if we evaluate it by standards.
 - 🌱 In current moment, I am learning LISP, SQL, Java, Python, postponed: <s>C++, C# </s>.
